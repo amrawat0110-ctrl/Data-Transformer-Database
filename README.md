@@ -159,7 +159,11 @@ Data-Transformer-SQL/
 
 Watch the complete project explanation video:
 
-[▶️ Click Here to Watch the Video](https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=sharing)
+
+## 🎥 Project Explanation Video
+
+[Click Here to Watch Video](https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=sharing)
+
 
 ```
 
