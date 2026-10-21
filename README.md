@@ -154,17 +154,6 @@ Data-Transformer-SQL/
 ├── data_transformer.sql.sql
 └── README.md
 
-
-## 🎥 Project Explanation Video
-
-Watch the complete project explanation video:
-
-
-## 🎥 Project Explanation Video
-
-[Click Here to Watch Video](https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=sharing)
-
-
 ```
 
 ## Notes
@@ -175,6 +164,12 @@ Watch the complete project explanation video:
 - The SQL file contains the query definitions. This README describes the project and workflow; it does not include captured result screenshots.
 
 ---
+
+## 🎥 Project Explanation Video
+
+[Click Here to Watch Video](https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=sharing)
+
+
 
 **Project:** Data Transformer SQL  
 **Database:** MySQL  
