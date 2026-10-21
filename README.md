@@ -167,7 +167,7 @@ Data-Transformer-SQL/
 
 ## 🎥 Project Explanation Video
 
-[Click Here to Watch Video](https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=sharing)
+[Click Here to Watch Video](https://drive.google.com/file/d/1z0YMcYAQFPzt4QKZMbBVYtuDQCfxnXf9/view?usp=sharing)
 
 
 
