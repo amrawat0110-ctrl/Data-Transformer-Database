@@ -153,6 +153,14 @@ Exact date-difference values depend on the date when the script is run because `
 Data-Transformer-SQL/
 ├── data_transformer.sql.sql
 └── README.md
+
+
+## 🎥 Project Explanation Video
+
+Watch the complete project explanation video:
+
+[▶️ Click Here to Watch the Video]( https://drive.google.com/file/d/12rQUMaP3rNft9bHTEkdHWjkMrO34NQ7q/view?usp=drive_link)
+
 ```
 
 ## Notes
