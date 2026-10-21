@@ -171,6 +171,10 @@ Data-Transformer-SQL/
 
 
 
+**Author:** Armin Khareghat
+
 **Project:** Data Transformer SQL  
+
 **Database:** MySQL  
+
 **Focus:** SQL joins, transformations, window functions, and analytical summaries
